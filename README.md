@@ -179,9 +179,3 @@ Feel free to fork the repo and submit pull requests.
 This project is open-source under the MIT License.
 
 ---
-
-If you want, I can also:
-
-* Format this README better
-* Add badges, visuals, or diagrams
-* Create a UML diagram for your project
